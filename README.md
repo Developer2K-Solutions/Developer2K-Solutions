@@ -2,7 +2,15 @@
 
 We build practical web products and custom software for growing businesses.
 
+This repository is the public hub for company information, links, and project entry points.
+
 [Website](https://dev2k.org) · [Learning CRM](https://github.com/Developer2K-Solutions/Dev2K-Learning-CRM) · [Roadmap](https://github.com/orgs/Developer2K-Solutions/discussions) · [Contact](mailto:Konstantin.Aksenov@dev2k.org)
+
+## Start Here
+
+- Company profile: https://github.com/Developer2K-Solutions/.github
+- Product repository: https://github.com/Developer2K-Solutions/Dev2K-Learning-CRM
+- Website repository: https://github.com/Developer2K-Solutions/Dev2K-Home-Page
 
 ## What We Do
 
