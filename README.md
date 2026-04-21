@@ -10,7 +10,7 @@ This repository is the public hub for company information, links, and project en
 
 - Company profile: https://github.com/Developer2K-Solutions/.github
 - Product repository: https://github.com/Developer2K-Solutions/Dev2K-Learning-CRM
-- Website repository: https://github.com/Developer2K-Solutions/Dev2K-Home-Page
+- Website repository: https://github.com/Developer2K-Solutions/dev2k.org
 
 ## What We Do
 
@@ -32,7 +32,7 @@ Project: https://github.com/Developer2K-Solutions/Dev2K-Learning-CRM
 
 ## Core Repositories
 
-- https://github.com/Developer2K-Solutions/Dev2K-Home-Page
+- https://github.com/Developer2K-Solutions/dev2k.org
 - https://github.com/Developer2K-Solutions/Dev2K-Learning-CRM
 - https://github.com/Developer2K-Solutions/Dev2K-Modules
 
